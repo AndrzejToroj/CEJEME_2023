@@ -1,0 +1,17 @@
+Saved simulation:
+see post_simul directory
+
+Data files panel, time series for chosen country and variable:
+PL_UE_ch - dataframe of historic data for unemeployment rate in Poland (panel of regions, monthly timeseries)
+PL_GDP_ch - dataframe of historic data for Gross Domestic Product in Poland (panel of regions, annual timeseries)
+Not covered in the text:
+[USA_UE_ch - dataframe of historic data for unemeployment rate in USA (panel of states, monthly timeseries)
+USA_GDP_ch - dataframe of historic data for Gross Domestic Product rate in USA (panel of states, quaterly timeseries)]
+
+Matrix W:
+W_PL - W matrix of polish regions
+[W_USA - W matrix of USA states]
+
+Maps:
+PL_map - map of Poland with 73 regions
+[USA_map - map of USA with 48 states]

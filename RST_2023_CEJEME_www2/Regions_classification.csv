@@ -1,0 +1,74 @@
+﻿Name;ID;NAME;MAKRO;wartosc W;WOJEWODZTWO
+Miasto Kraków;PL213;MIASTO KRAKÓW;Makroregion Południowy;7;Małopolskie
+Krakowski;PL214;KRAKOWSKI;Makroregion Południowy;7;Małopolskie
+Tarnowski;PL217;TARNOWSKI;Makroregion Południowy;7;Małopolskie
+Nowosądecki;PL218;NOWOSĄDECKI;Makroregion Południowy;7;Małopolskie
+Nowotarski;PL219;NOWOTARSKI;Makroregion Południowy;7;Małopolskie
+Oświęcimski;PL21A;OŚWIĘCIMSKI;Makroregion Południowy;7;Małopolskie
+Częstochowski;PL224;CZĘSTOCHOWSKI;Makroregion Południowy;7;Śląskie
+Bielski;PL225;BIELSKI;Makroregion Południowy;7;Śląskie
+Rybnicki;PL227;RYBNICKI;Makroregion Południowy;7;Śląskie
+Bytomski;PL228;BYTOMSKI;Makroregion Południowy;7;Śląskie
+Gliwicki;PL229;GLIWICKI;Makroregion Południowy;7;Śląskie
+Katowicki;PL22A;KATOWICKI;Makroregion Południowy;7;Śląskie
+Sosnowiecki;PL22B;SOSNOWIECKI;Makroregion Południowy;7;Śląskie
+Tyski;PL22C;TYSKI;Makroregion Południowy;7;Śląskie
+Pilski;PL411;PILSKI;Makroregion Północno-zachodni;2;Wielkopolskie
+Koniński;PL414;KONIŃSKI;Makroregion Północno-zachodni;2;Wielkopolskie
+Miasto Poznań;PL415;MIASTO POZNAŃ;Makroregion Północno-zachodni;2;Wielkopolskie
+Kaliski;PL416;KALISKI;Makroregion Północno-zachodni;2;Wielkopolskie
+Leszczyński;PL417;LESZCZYŃSKI;Makroregion Północno-zachodni;2;Wielkopolskie
+Poznański;PL418;POZNAŃSKI;Makroregion Północno-zachodni;2;Wielkopolskie
+Miasto Szczecin;PL424;MIASTO SZCZECIN;Makroregion Północno-zachodni;2;Zachodniopomorskie
+Koszaliński;PL426;KOSZALIŃSKI;Makroregion Północno-zachodni;2;Zachodniopomorskie
+Szczecinecko-pyrzycki;PL427;SZCZECINECKO-PYRZYCKI;Makroregion Północno-zachodni;2;Zachodniopomorskie
+Szczeciński;PL428;SZCZECIŃSKI;Makroregion Północno-zachodni;2;Zachodniopomorskie
+Gorzowski;PL431;GORZOWSKI;Makroregion Północno-zachodni;2;Lubuskie
+Zielonogórski;PL432;ZIELONOGÓRSKI;Makroregion Północno-zachodni;2;Lubuskie
+Miasto Wrocław;PL514;MIASTO WROCŁAW;Makroregion Południowo-zachodni;6;Dolnośląskie
+Jeleniogórski;PL515;JELENIOGÓRSKI;Makroregion Południowo-zachodni;6;Dolnośląskie
+Legnicko-Głogowski;PL516;LEGNICKO-GŁOGOWSKI;Makroregion Południowo-zachodni;6;Dolnośląskie
+Wałbrzyski;PL517;WAŁBRZYSKI;Makroregion Południowo-zachodni;6;Dolnośląskie
+Wrocławski;PL518;WROCŁAWSKI;Makroregion Południowo-zachodni;6;Dolnośląskie
+Nyski;PL523;NYSKI;Makroregion Południowo-zachodni;6;Opolskie
+Opolski;PL524;OPOLSKI;Makroregion Południowo-zachodni;6;Opolskie
+Bydgosko-Torunski;PL613;BYDGOSKO-TORUNSKI;Makroregion Północny;1;Kujawsko-pomorskie
+Grudziądzki;PL616;GRUDZIĄDZKI;Makroregion Północny;1;Kujawsko-pomorskie
+Inowrocławski;PL617;INOWROCŁAWSKI;Makroregion Północny;1;Kujawsko-pomorskie
+Świecki;PL618;ŚWIECKI;Makroregion Północny;1;Kujawsko-pomorskie
+Włocławski;PL619;WŁOCŁAWSKI;Makroregion Północny;1;Kujawsko-pomorskie
+Elbląski;PL621;ELBLĄSKI;Makroregion Północny;1;Warmińsko-mazurskie
+Olsztyński;PL622;OLSZTYŃSKI;Makroregion Północny;1;Warmińsko-mazurskie
+Ełcki;PL623;EŁCKI;Makroregion Północny;1;Warmińsko-mazurskie
+Trójmiejski;PL633;TRÓJMIEJSKI;Makroregion Północny;1;Pomorskie
+Gdański;PL634;GDAŃSKI;Makroregion Północny;1;Pomorskie
+Słupski;PL636;SŁUPSKI;Makroregion Północny;1;Pomorskie
+Chojnicki;PL637;CHOJNICKI;Makroregion Północny;1;Pomorskie
+Starogardzki;PL638;STAROGARDZKI;Makroregion Północny;1;Pomorskie
+Miasto Łódz;PL711;MIASTO ŁÓDZ;Makroregion Centralny;4;Łódzkie
+Łódzki;PL712;ŁÓDZKI;Makroregion Centralny;4;Łódzkie
+Piotrkowski;PL713;PIOTRKOWSKI;Makroregion Centralny;4;Łódzkie
+Sieradzki;PL714;SIERADZKI;Makroregion Centralny;4;Łódzkie
+Skierniewicki;PL715;SKIERNIEWICKI;Makroregion Centralny;4;Łódzkie
+Kielecki;PL721;KIELECKI;Makroregion Centralny;4;Świętokrzyskie
+Sandomiersko-jędrzejowski;PL722;SANDOMIERSKO-JĘDRZEJOWSKI;Makroregion Centralny;4;Świętokrzyskie
+Bialski;PL811;BIALSKI;Makroregion Wschodni;5;Lubelskie
+Chełmsko-zamojski;PL812;CHEŁMSKO-ZAMOJSKI;Makroregion Wschodni;5;Lubelskie
+Lubelski;PL814;LUBELSKI;Makroregion Wschodni;5;Lubelskie
+Puławski;PL815;PUŁAWSKI;Makroregion Wschodni;5;Lubelskie
+Krosnieński;PL821;KROSNIEŃSKI;Makroregion Wschodni;5;Podkarpackie
+Przemyski;PL822;PRZEMYSKI;Makroregion Wschodni;5;Podkarpackie
+Rzeszowski;PL823;RZESZOWSKI;Makroregion Wschodni;5;Podkarpackie
+Tarnobrzeski;PL824;TARNOBRZESKI;Makroregion Wschodni;5;Podkarpackie
+Białostocki;PL841;BIAŁOSTOCKI;Makroregion Wschodni;5;Podlaskie
+Łomżynski;PL842;ŁOMŻYNSKI;Makroregion Wschodni;5;Podlaskie
+Suwalski;PL843;SUWALSKI;Makroregion Wschodni;5;Podlaskie
+Miasto Warszawa;PL911;MIASTO WARSZAWA;Makroregion woj. Mazowieckie;3;Mazowieckie
+Warszawski wschodni;PL912;WARSZAWSKI WSCHODNI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Warszawski zachodni;PL913;WARSZAWSKI ZACHODNI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Radomski;PL921;RADOMSKI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Ciechanowski;PL922;CIECHANOWSKI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Płocki;PL923;PŁOCKI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Ostrołęcki;PL924;OSTROŁĘCKI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Siedlecki;PL925;SIEDLECKI;Makroregion woj. Mazowieckie;3;Mazowieckie
+Żyrardowski;PL926;ŻYRARDOWSKI;Makroregion woj. Mazowieckie;3;Mazowieckie
